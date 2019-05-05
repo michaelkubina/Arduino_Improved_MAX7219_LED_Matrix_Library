@@ -1,0 +1,37 @@
+﻿MAX7219					KEYWORD1
+
+clearDisplay			KEYWORD1
+clearAllDisplays		KEYWORD1
+
+fillDisplay				KEYWORD1
+fillAllDisplays			KEYWORD1
+
+invertDisplay			KEYWORD1
+invertAllDisplays		KEYWORD1
+
+setLed					KEYWORD1
+invertLed				KEYWORD1
+getLed					KEYWORD1
+
+setRow					KEYWORD1
+invertRow				KEYWORD1
+getRow					KEYWORD1
+
+setColumn				KEYWORD1
+invertColumn			KEYWORD1
+getColumn				KEYWORD1
+
+setDecodeMode			KEYWORD1
+getDecodeMode			KEYWORD1
+
+setIntensity			KEYWORD1
+getIntensity			KEYWORD1
+
+setScanLimit			KEYWORD1
+getScanLimit			KEYWORD1
+
+setShutdown				KEYWORD1
+getShutdown				KEYWORD1
+
+setDisplayTest			KEYWORD1
+getDisplayTest			KEYWORD1
